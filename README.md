@@ -1,7 +1,8 @@
 # arkanoid-processing-arduino
 
+![Screenshot](https://github.com/jae1e/arkanoid-processing-arduino/blob/master/screenshot.png)
+
 [Arkanoid with processing, arduino on YouTube](https://youtu.be/YjE0HqZCjfQ)
-![Screenshot](https://github.com/jae1e/arkanoid-processing-arduino/screenshot.png)
 
 Many people requested to send their code through YouTube and e-mail, so I decided to post this on GitHub.
 I wrote this code few years ago, for my college class project. I knew nothing about programming then. It is bad. :P
